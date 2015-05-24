@@ -1,0 +1,8 @@
+Package: pipelinehelpers
+Title: Helper functions for organizing a data science pipeline.
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Helper functions for organizing a data science pipeline.
+Depends: R (>= 3.2.0)
+License: What license is it under?
+LazyData: true
